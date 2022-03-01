@@ -1,6 +1,11 @@
 {
-  "name": "Nick Reynolds",
-  "phone": "555-555-5555",
-  "email": "nick.reynolds@domain.co" 
-  
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
