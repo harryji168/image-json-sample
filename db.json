@@ -44,14 +44,6 @@
       "img": "img/landscape5.jpg",
       "date": "2010-09-01",
       "featured": false
-    },
-    {
-      "id":6,
-      "title": "Kiddi Kristjans Iceland",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img": "img/landscape6.jpg",
-      "date": "2015-07-21",
-      "featured": true
     }
   ]
 }
